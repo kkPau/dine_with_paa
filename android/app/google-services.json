@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769460518196",
+    "project_id": "dinewithpaa",
+    "storage_bucket": "dinewithpaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769460518196:android:857baf273aad34d41d3961",
+        "android_client_info": {
+          "package_name": "com.example.dine_with_paa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5UEMAFlOH6v9q9h2As7OewbwBAPCZG9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
