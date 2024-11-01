@@ -373,7 +373,18 @@ class _HomePageState extends State<HomePage> {
               child: Image.asset("assets/Dine with Paa/IMG_5057.JPG"),
             ),
             // SizedBox(width: phoneWidth * 0.01),
-            const Text("Dine with Paa"),
+            Expanded(
+              child: Container(
+                alignment: Alignment.center,
+                child: const Text(
+                  "Dine with Paa",
+                  style: TextStyle(
+                      fontSize: 40,
+                      fontFamily: 'sans-serif',
+                      fontWeight: FontWeight.w500),
+                ),
+              ),
+            ),
           ],
         ),
       ),
